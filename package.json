@@ -1,0 +1,43 @@
+{
+  "name": "grid2",
+  "description": "JavaScript implementation of a static spatial grid index in two dimension.",
+  "version": "1.0.0",
+  "author": "peters <p1100i@gmx.com>",
+  "main": "src/grid2.js",
+  "license": "MIT",
+  "licenseUrl": "http://www.opensource.org/licenses/mit-license.php",
+  "homepage": "http://p1100i.github.io/grid2.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajian55/grid2"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "scripts": {
+    "test": "mocha test/**/*.js",
+    "test-watch": "grunt watch",
+    "build": "grunt"
+  },
+  "keywords": [
+    "grid",
+    "spatial",
+    "2d",
+    "collision",
+    "detection"
+  ],
+  "dependencies": {
+    "vec2": "^1.6.1"
+  },
+  "devDependencies": {
+    "grunt": "^1.3.0",
+    "grunt-browserify": "^5.3.0",
+    "grunt-cli": "^1.3.2",
+    "grunt-contrib-jshint": "^3.0.0",
+    "grunt-contrib-uglify": "^5.0.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-simple-mocha": "^0.4.1",
+    "mocha": "^8.2.1",
+    "should": "^13.2.3"
+  }
+}
