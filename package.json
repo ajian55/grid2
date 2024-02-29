@@ -6,10 +6,10 @@
   "main": "src/grid2.js",
   "license": "MIT",
   "licenseUrl": "http://www.opensource.org/licenses/mit-license.php",
-  "homepage": "http://p1100i.github.io/grid2.js",
+  "homepage": "http://ajian55.github.io/grid2",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ajian55/grid2"
+    "url": "https://github.com/ajian55/grid2"
   },
   "engines": {
     "node": ">= 0.10.0"
