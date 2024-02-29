@@ -1,7 +1,7 @@
 {
   "name": "ajian-grid2",
   "description": "JavaScript implementation of a static spatial grid index in two dimension.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "peters <p1100i@gmx.com>",
   "main": "src/grid2.js",
   "license": "MIT",
